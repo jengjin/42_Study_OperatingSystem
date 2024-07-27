@@ -1,14 +1,12 @@
 # 🖥️ 42_Study_OperatingSystem
 
-<h1>$\Huge{\color{#FF0062} ~7/17 범위}$</h1>
-<h3>$\Huge{\color{#FF0} 9,10장}$</h3>
+<h1>$\Huge{\color{#FF0062} ~7/31\,범위:\,\color{#FF0} 15장}$</h1>
 
 <h1>$\Huge{\color{#FF0000} 공지}$</h1>
-<h3>$\Huge{\color{#FF00ff} ‼업데이트_있음_동기화_필수 }$</h3>
+<h3>$\Huge{\color{#FF00ff} 다들\,빨간불이\,떠서\,당분간\,범위를\,줄이겠습니다. }$</h3>
 
-<h1>$\Huge{\color{#FF0062} 지각자 명단}$</h1>
+<h1>$\Huge{\color{#FF0062} 지각자\,명단}$</h1>
 
-<h1>$\Huge{\color{#FF0} 이혜빈(이번주 건강 이슈로 쉬겠슴니다.)}$</h1>
 <br/>
 
 
